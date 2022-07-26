@@ -1,3 +1,10 @@
+#MixItUp
+###A project let you decide your next meal let you order the meal as DineNow.
+###Sometimes let you MixItUp according to your choice
+#UI:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
