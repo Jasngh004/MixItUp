@@ -1,0 +1,81 @@
+.searchbaazi{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    padding: 4px; */
+    margin-top:10px;
+    text-align: center;
+
+
+    
+}
+
+.input{
+    min-width: 200px;
+    max-width: 50vw;
+    font-size: 20px;
+font-style: italic;
+ 
+    border-radius: 8px;
+}
+.submit{
+    font-size: 20px;
+    background-color: rgb(242,48,48);
+    border-radius: 4px;
+    margin-left: 10px;
+    color: white;
+    border: 2px solid rgb(242,48,48);
+}
+
+
+.submit:hover{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 4px;
+    margin-left: 10px;
+    color: rgb(242,48,48);
+}
+@media (min-width: 481px){
+.RecipeTile{
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    margin-top: 1rem;
+    justify-content: center;
+}  }
+
+.tileimg{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 40px;
+    border: 8px solid white;
+    margin-top: 12px;
+}
+
+.tileimg:hover{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 40px;
+    border: 8px solid rgb(242,48,48);
+    margin-top: 12px;
+}
+
+.RecipeCard:hover{
+    cursor: pointer;
+    color: rgb(242,48,48);
+}
+
+.tiletitle{
+    
+    max-width: 200;
+    text-align: center;
+    margin: 12px 0px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-style: italic;
+    
+  /*  background-color: rgb(242,48,48);*/
+}

@@ -1,0 +1,57 @@
+.footer{
+    padding: 2rem;
+    background-color: rgb(242, 48,48);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.desc{
+    color: white;
+    font-size: 1.3rem;
+    opacity: 0.7;
+    text-align: center;
+    font-weight: 200;
+}
+
+.copyright{
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+}
+.Title{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.socialicons{
+    color: white;
+    margin-left: 2rem;
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    width: 20px;
+}
+
+.img
+{
+    height:45px;
+    width: 45px;
+    margin-left: 1rem;
+    text-align: center;
+   
+}
+
+.img:hover
+{
+    height:45px;
+    width: 45px;
+    margin-left: 1rem;
+    text-align: center;
+    cursor:pointer;
+   
+}
+

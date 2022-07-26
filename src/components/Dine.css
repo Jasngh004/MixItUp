@@ -1,0 +1,33 @@
+.d-head{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(242, 48, 48);
+    text-decoration: underline;
+    font-style: italic;
+  
+  
+}
+@media (max-width:481px){
+.d-img{
+    height: 350px;
+    width: 350px;
+}}
+/* 
+.d-img{
+    height: 600px;
+    width: 70%;
+    margin-bottom: 4rem;
+} */
+.d-text{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    color: rgb(242, 48, 48);
+    font-family: cursive;
+    font-style: italic;
+    margin-top: 1rem;
+    margin-bottom: 2rem;}
