@@ -2,6 +2,18 @@
 ### A project let you decide your next meal let you order the meal as DineNow.
 ### Sometimes let you MixItUp according to your choice
 # UI:
+![image](https://user-images.githubusercontent.com/79835147/181076536-fb3ebb35-8471-4ccd-9e3c-364fd7c82f7a.png)
+![image](https://user-images.githubusercontent.com/79835147/181076629-1963c521-0a73-4be9-8899-ab86fea75cfc.png)
+![image](https://user-images.githubusercontent.com/79835147/181076677-0991cd53-ad28-4012-84db-b70eba89d253.png)
+![image](https://user-images.githubusercontent.com/79835147/181076725-9b044440-9cb2-4cf2-a894-8070857b69c4.png)
+![image](https://user-images.githubusercontent.com/79835147/181076840-490eebd7-fd20-4e49-a596-b6a8181617ed.png)
+![image](https://user-images.githubusercontent.com/79835147/181076886-237bdbd6-a804-4321-803a-bb41951fce7e.png)
+![image](https://user-images.githubusercontent.com/79835147/181077055-0c15aae6-59f3-42c9-9952-9a4248861464.png)
+![image](https://user-images.githubusercontent.com/79835147/181077160-b9d7d9f7-b94a-4bd5-ac77-500097b74160.png)
+![image](https://user-images.githubusercontent.com/79835147/181077223-2d189cd1-a645-402c-bfde-831f72db4670.png)
+![image](https://user-images.githubusercontent.com/79835147/181077265-6622fbcf-f0d8-4b65-b357-2052633b3052.png)
+![image](https://user-images.githubusercontent.com/79835147/181077303-a734fd47-397b-4f29-8703-b9a904b378d1.png)
+
 
 
 
