@@ -1,7 +1,7 @@
-#MixItUp
-###A project let you decide your next meal let you order the meal as DineNow.
-###Sometimes let you MixItUp according to your choice
-#UI:
+# MixItUp
+### A project let you decide your next meal let you order the meal as DineNow.
+### Sometimes let you MixItUp according to your choice
+# UI:
 
 
 
